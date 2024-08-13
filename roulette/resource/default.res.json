@@ -1,0 +1,100 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,ball_png,wheel_png,panel_png,panel2_png,sheet_png,point_png,sheet2_png,wheel2_png,panel3_png,table_png,betchip_100_png,spinBtn_png,betchip_200_png,okBtn_png,cancelBtn_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "ball_png",
+			"type": "image",
+			"url": "assets/ball.png"
+		},
+		{
+			"name": "wheel_png",
+			"type": "image",
+			"url": "assets/wheel.png"
+		},
+		{
+			"name": "panel_png",
+			"type": "image",
+			"url": "assets/panel.png"
+		},
+		{
+			"name": "panel2_png",
+			"type": "image",
+			"url": "assets/panel2.png"
+		},
+		{
+			"name": "sheet_png",
+			"type": "image",
+			"url": "assets/sheet.png"
+		},
+		{
+			"name": "point_png",
+			"type": "image",
+			"url": "assets/point.png"
+		},
+		{
+			"name": "sheet2_png",
+			"type": "image",
+			"url": "assets/sheet2.png"
+		},
+		{
+			"name": "wheel2_png",
+			"type": "image",
+			"url": "assets/wheel2.png"
+		},
+		{
+			"name": "panel3_png",
+			"type": "image",
+			"url": "assets/panel3.png"
+		},
+		{
+			"name": "table_png",
+			"type": "image",
+			"url": "assets/table.png"
+		},
+		{
+			"name": "betchip_100_png",
+			"type": "image",
+			"url": "assets/betchip_100.png"
+		},
+		{
+			"name": "spinBtn_png",
+			"type": "image",
+			"url": "assets/spinBtn.png"
+		},
+		{
+			"name": "betchip_200_png",
+			"type": "image",
+			"url": "assets/betchip_200.png"
+		},
+		{
+			"name": "okBtn_png",
+			"type": "image",
+			"url": "assets/okBtn.png"
+		},
+		{
+			"name": "cancelBtn_png",
+			"type": "image",
+			"url": "assets/cancelBtn.png"
+		}
+	]
+}
