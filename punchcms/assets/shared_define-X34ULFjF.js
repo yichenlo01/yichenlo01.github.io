@@ -1,1 +1,0 @@
-var c=Object.defineProperty;var l=(o,s,a)=>s in o?c(o,s,{enumerable:!0,configurable:!0,writable:!0,value:a}):o[s]=a;var t=(o,s,a)=>(l(o,typeof s!="symbol"?s+"":s,a),a);const g="/assets/logoIcon-BntaS0ye.png";class n{}t(n,"CLIENT_VERSION","1.0.0");export{n as S,g as l};

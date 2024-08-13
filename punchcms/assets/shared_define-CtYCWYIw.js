@@ -1,0 +1,1 @@
+var t=Object.defineProperty;var n=(o,s,a)=>s in o?t(o,s,{enumerable:!0,configurable:!0,writable:!0,value:a}):o[s]=a;var c=(o,s,a)=>(n(o,typeof s!="symbol"?s+"":s,a),a);const g="/punchcms/assets/logoIcon-BntaS0ye.png";class l{}c(l,"CLIENT_VERSION","1.0.0");export{l as S,g as l};
