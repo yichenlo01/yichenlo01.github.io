@@ -1,0 +1,10 @@
+{"file":"main.png","frames":{
+    "img_bigwin":{"x":2,"y":2,"w":1423,"h":559,"offX":0,"offY":0,"sourceW":1423,"sourceH":559},
+    "img_front":{"x":1427,"y":2,"w":411,"h":398,"offX":0,"offY":0,"sourceW":411,"sourceH":398},
+    "img_main_line":{"x":2,"y":563,"w":1650,"h":68,"offX":0,"offY":0,"sourceW":1650,"sourceH":68},
+    "img_megawin":{"x":2,"y":633,"w":1739,"h":579,"offX":0,"offY":0,"sourceW":1739,"sourceH":579},
+    "img_particles":{"x":1743,"y":633,"w":20,"h":20,"offX":0,"offY":0,"sourceW":20,"sourceH":20},
+    "img_superwin":{"x":2,"y":1214,"w":1692,"h":575,"offX":0,"offY":0,"sourceW":1692,"sourceH":575}}
+    }
+    
+    
