@@ -38,6 +38,7 @@
   <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
 
   <link rel="stylesheet" type="text/css" href="style-mobile.css"/>
+  <link rel="manifest" href="/manifest.json">
 
 </head>
 <body>
@@ -52,6 +53,18 @@
 <script src="main.js" charset="utf-8"></script>
 
 <script type="text/javascript">
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/service-worker.js')
+      .then((registration) => {
+        console.log('Service Worker registered with scope: ', registration.scope);
+      })
+      .catch((error) => {
+        console.log('Service Worker registration failed:', error);
+      });
+  });
+}
+
 (function () {
     // open web debugger console
     if (typeof VConsole !== 'undefined') {
